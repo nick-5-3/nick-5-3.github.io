@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Nick Phan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi, I am a Mechanical Engineering with an interest in aerospace and robotics"
   location         : "Hamilton, Ontario"
   email            : "phann6@mcmaster.ca"
