@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Nick Phan"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I am a Mechanical Engineering student with a keen interest in aerospace engineering, robotics and control systems"
+  bio              : "Hi, I am a mechanical engineering student with a keen interest in aerospace engineering, robotics and control systems"
   location         : "Hamilton, Ontario"
   email            :
   links:
@@ -279,3 +279,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
