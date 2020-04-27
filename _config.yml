@@ -28,7 +28,7 @@ twitter_username:
 github_username:  nick-5-3
 
 # Build settings
-theme: minima
+theme: jekyll-text-theme
 plugins:
   - jekyll-feed
 
