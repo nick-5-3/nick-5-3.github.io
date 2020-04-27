@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "my adventures"
+title                    : "My Adventures"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nick Phan"
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Nick Phan"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I am a Mechanical Engineering Student who likes to build things"
-  location         : "Hailton, Ontario"
+  bio              : "Hi, I am a Mechanical Engineering student who likes to build things. I have a keen interest in aerospace engineering, robotics and control systems"
+  location         : "Hamilton, Ontario"
   email            :
   links:
     - label: "Email"
