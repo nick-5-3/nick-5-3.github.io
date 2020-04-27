@@ -279,3 +279,13 @@ defaults:
       comments: # true
       share: true
       related: true
+
+defaults:
+  -scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      related: true
