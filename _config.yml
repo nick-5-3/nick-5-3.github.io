@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Nick Phan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I am a Mechanical Engineering with an interest in aerospace and robotics"
+  avatar           : "/assets/images/logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Hi, I am a Mechanical Engineering with an interest in aerospace, robotics and control systems"
   location         : "Hamilton, Ontario"
   email            : "phann6@mcmaster.ca"
   links:
