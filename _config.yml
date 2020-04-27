@@ -281,7 +281,7 @@ defaults:
       related: true
 
 defaults:
-  -scope:
+  - scope:
       path: ""
       type: posts
     values:
