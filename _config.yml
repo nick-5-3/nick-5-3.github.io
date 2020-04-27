@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Nick Phan"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I am a Mechanical Engineering student who likes to build things. I have a keen interest in aerospace engineering, robotics and control systems"
+  bio              : "Hi, I am a Mechanical Engineering student with a keen interest in aerospace engineering, robotics and control systems"
   location         : "Hamilton, Ontario"
   email            :
   links:
@@ -116,7 +116,7 @@ author:
       url: "https://github.com/nick-5-3/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/yungnick_00"
+      url: "https://instagram.com/yungnick_00"
 
 # Site Footer
 footer:
@@ -126,10 +126,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/xinhgaiii123/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://www.github.com/nick-5-3/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/yungnick_00"
 
 
 # Reading Files
