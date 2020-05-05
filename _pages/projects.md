@@ -47,4 +47,17 @@ task
 </video>
 <figcaption> Video showing device operation </figcaption>
 
+### Prosthetic Hand Prototype
+- Designed a 3D printed, easily assembled prosthetic hand prototype to move 2 
+fingers at a given speed using a reduction gear box attached to a motor
+- Designed components to snap onto each other, requiring less fasteners
+
+<figure class="half">
+<img src="/assets/images/hand1.jpg">
+<img src="/assets/images/hand2.jpg">
+<figcaption> 3D printed assembly requires only 2 fasteners. In this prototype,
+the crank on the top right of the left image represents the motor input </figcaption>
+</figure>
+
+
 
