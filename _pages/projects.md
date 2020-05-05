@@ -13,8 +13,7 @@ given load, provided the propulsion system does not use wheels
 - The design's final report can be found [here](/assets/files/Tow Vehicle Report.pdf)
 - Designed a 3D-printed spoke on Autodesk Inventor and conducted finite
 element analysis on the model to simulate operating stresses
-- Made design changes based on FEA to increase safety factor of spoke design by 
-over 3 times
+- Made design changes based on FEA to increase part strength by over 3 times
 - Created a dynamic simulation to simulate the vehicle's propulsion system
 <figure class="half">
 <img src="/assets/images/Spoke1.PNG">
