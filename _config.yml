@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "My Adventures"
+title                    : "Nick Phan"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Nick Phan"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Nick Phan"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, I am a mechanical engineering student with a keen interest in aerospace engineering, robotics and control systems"
+  bio              : "3rd Year Mechanical Engineering student"
   location         : "Hamilton, Ontario"
   email            :
   links:
@@ -116,7 +116,10 @@ author:
       url: "https://github.com/nick-5-3/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/yungnick_00"
+      # url:
+    - label: "Resume"
+      icon: "fa fa-fw fa-file"
+      url: "https://google.com/ok"
 
 # Site Footer
 footer:
@@ -126,7 +129,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/xinhgaiii123/"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://www.github.com/nick-5-3/"
@@ -138,7 +141,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/yungnick_00"
+      # url:
 
 
 # Reading Files
