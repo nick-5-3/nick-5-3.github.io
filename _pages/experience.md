@@ -10,7 +10,7 @@ title: "Experience"
 The McMaster Rocketry Team is a student-led technical team that aims to compete
 in the Intercollegiate Rocket Engineering Competition (IREC). Before 2018, the
 team assembled a complete rocket body, but had not been able to integrate the 
-systems. In 2019, the team decided to start from the ground up with
+systems. In 2019, we decided to start from the ground up with
 smaller models aiming to test and perfectly implement its control systems before 
 making the G-class rocket, with the goal of competing in 2021.
 
