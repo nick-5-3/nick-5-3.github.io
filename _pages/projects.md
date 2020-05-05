@@ -80,7 +80,7 @@ printed parts, an ultrasonic sensor, line sensors, and an Arduino Uno
 
 ### Model Aircraft
 - Made a foam model airplane from household materials
-- Implemented full control surfaces and attached the propeller and electronics
+- Implemented full control surfaces and attached propeller and electronics
 - Made a big mistake and realized that the connector from my LiPo battery is an 
 XT60 connector, and does not match with the connector from the ESC I purchased 
 (oops D: )
