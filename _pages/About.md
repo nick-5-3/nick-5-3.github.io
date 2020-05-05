@@ -4,6 +4,7 @@ permalink: /about/
 title: "About"
 author_profile: true
 ---
+Hi there! Here's a little background on who I am:
 - Grew up in Saigon, Vietnam
 - Traveled to Canada in 2017 and lived with a host family as I completed high
 school
@@ -20,9 +21,9 @@ University in Hamilton, Ontario
 
 ## Football/soccer
 - Fell in love with the sport when I played my first game in 4th grade, and 
-never stopped playing since.
+never stopped playing since
 - Now, I come out most weekends for pickup soccer and small tournaments in the
-Hamilton area.
+Hamilton area
 
 <p align="center">
 <img height="300" width="225" src="/assets/images/soccer1.jpg">
@@ -30,7 +31,7 @@ Hamilton area.
 
 ## Skateboarding
 - In the summer of 2019, a friend gave me his skateboard so I didn't have to
-walk to lectures
+walk to lectures (thank you!)
 - I started skateboarding everyday. The small injuries, recoveries, and the joy
 of learning new tricks have changed me in ways I could never have imagined
 

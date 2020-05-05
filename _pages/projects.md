@@ -59,5 +59,34 @@ fingers at a given speed using a reduction gear box attached to a motor
 the crank on the top right of the left image represents the motor input </figcaption>
 </figure>
 
+---
 
+## Personal
 
+### Self-Inserting Catheter
+- Received 3rd place overall in the McMaster Designathon 2020
+- With 3 group members, came up with the idea for a semi-automatic 
+implementation of the Seldinger technique
+
+<img src="/assets/images/catheter.PNG">
+<figcaption> CAD model created by group member Hans Park</figcaption>
+
+### Sumobot
+- Design, built and programmed an autonomous sumo robot, combining 3D 
+printed parts, an ultrasonic sensor, line sensors, and an Arduino Uno
+
+<p align="center">
+<img src="/assets/images/sumobot.jpg">
+</p>
+
+### Model Aircraft
+- Made a foam model airplane from household materials
+- Implemented full control surfaces and attached the propeller and electronics
+- Made a big mistake and realized that the connector from my LiPo battery is an 
+XT60 connector, and does not match with the connector from the ESC I purchased 
+(oops D: )
+
+<figure class="half">
+<img src="/assets/images/plane1.jpg">
+<img src="/assets/images/plane2.jpg">
+</figure>
