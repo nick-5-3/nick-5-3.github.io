@@ -17,14 +17,14 @@ element analysis on the model to simulate operating stresses
 over 3 times
 - Created a dynamic simulation to simulate the vehicle's propulsion system
 <figure class="half">
-<img src="/assets/images/Spoke1.png">
-<img src="/assets/images/Stress.png">
+<img src="/assets/images/Spoke1.PNG">
+<img src="/assets/images/Stress.PNG">
 <figcaption> Initial design not strong enough to withstand operational stresses
 based on static analysis</figcaption>
 </figure>
 <figure class="half">
-<img src="/assets/images/new design.png">
-<img src="/assets/images/Stress final.png">
+<img src="/assets/images/new design.PNG">
+<img src="/assets/images/Stress final.PNG">
 <figcaption> New design effectively withstands applied stresses based on static
 analysis</figcaption>
 </figure>
@@ -39,7 +39,7 @@ task
 - Performed a [DFMA analysis](/assets/files/DFMA 2.pdf) on the design
 <figure class="half">
 <img src="/assets/images/Piston Assembly.png">
-<img src="/assets/images/piston.png">
+<img src="/assets/images/piston.PNG">
 <figcaption> Final design of piston assembly has potential to output 37500 RPM</figcaption>
 </figure>
 <video width="600" controls="controls">

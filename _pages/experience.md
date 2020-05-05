@@ -15,7 +15,7 @@ smaller models aiming to test and perfectly implement its control systems before
 making the G-class rocket, with the goal of competing in 2021.
 
 <figure class="half">
-<img src="/assets/images/simulation.png">
+<img src="/assets/images/simulation.PNG">
 <img src="/assets/images/launch.jpg">
 <figcaption> Simulink model of a C-class rocket (left) and a test launch of
 the rocket (right) </figcaption>
