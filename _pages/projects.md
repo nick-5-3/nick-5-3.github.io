@@ -89,3 +89,4 @@ XT60 connector, and does not match with the connector from the ESC I purchased
 <img src="/assets/images/plane1.jpg">
 <img src="/assets/images/plane2.jpg">
 </figure>
+
