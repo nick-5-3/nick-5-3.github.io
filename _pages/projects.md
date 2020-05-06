@@ -62,7 +62,7 @@ the crank on the top right of the left image represents the motor input </figcap
 
 ## Personal
 
-### Self-Inserting Catheter
+### Self-Feeding Catheter
 - Received 3rd place overall in the McMaster Designathon 2020
 - With 3 group members, came up with the idea for a semi-automatic 
 implementation of the Seldinger technique
