@@ -24,7 +24,7 @@ the rocket (right) </figcaption>
 - Led the structural team to design and construct C-class rocket models
 - Modeled and constructed FE stress analyses on multiple versions using
 Fusion 360 and SolidWorks
-- Created technical drawings of parts in accordance with ASME Y14.5 GD&T standards
+- Created technical drawings of parts in accordance with ASME GD&T standards
 - Improved rocket efficiency by reducing the weight of 3D printed parts by 40% 
 - Set up a simulation of the design using Simulink and thrust data provided by
 the motor manufacturer, Estes
